@@ -24,4 +24,4 @@ const isDesktop=(()=> {
     return isDesktopUA && isDesktopScreen && hasMouse && hasContextMenu && isDesktopMemory && isDesktopBehavior;
 })();
 
-export default isDesktop;
+module.exports = isDesktop;
