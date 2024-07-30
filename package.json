@@ -1,0 +1,24 @@
+{
+  "name": "is-desktop",
+  "version": "1.0.0",
+  "description": "A simple utility to detect if a user is on a desktop device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monyasau/isDesktop.git"
+  },
+  "keywords": [
+    "detection",
+    "desktop",
+    "test"
+  ],
+  "author": "Olanrewaju Olajide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monyasau/isDesktop/issues"
+  },
+  "homepage": "https://github.com/monyasau/isDesktop#readme"
+}
