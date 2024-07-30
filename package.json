@@ -1,6 +1,6 @@
 {
   "name": "is-desktop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to detect if a user is on a desktop device.",
   "main": "index.js",
   "module": "index.mjs",
