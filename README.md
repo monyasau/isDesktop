@@ -55,7 +55,7 @@ If you encounter any issues or have feature/pull requests, please report them at
 This project is open-source and is licensed under the MIT License - see the LICENSE file for details.
 
 # Author
-<a href="https://monyasau.netlify.app">Olanrewaju Olajide</a>
+<a href="https://monyasau.netlify.app" target="_blank">Olanrewaju Olajide</a>
 
 #### Misc
-<a href="https://x.com/_monyasau">_monyasau</a> on Twitter.
+<a href="https://x.com/_monyasau" target="_blank">_monyasau</a> on Twitter.
