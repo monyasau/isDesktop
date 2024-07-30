@@ -6,7 +6,7 @@ An utility to detect if a user is on a desktop device.
 
 
 ```
-npm install is-Desktop
+npm install is-desktop
 ```
 
 # Usage
