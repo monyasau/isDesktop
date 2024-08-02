@@ -23,5 +23,9 @@ const isDesktop=(()=> {
     // Combined Check
     return isDesktopUA && isDesktopScreen && hasMouse && hasContextMenu && isDesktopMemory && isDesktopBehavior;
 })();
+Object.defineProperty(globalThis, 'isDesktop', {
+    get: () => isDesktop,
+    configurable: true
+});
 
 module.exports = isDesktop;
