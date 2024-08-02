@@ -1,4 +1,4 @@
-const isDesktopCheck = (() => {
+const isDesktop = () => {
     // User-Agent Analysis
     const ua = navigator.userAgent;
     const isDesktopUA = /Windows|Macintosh|Linux/.test(ua) && !/Mobile|Android|iPhone|iPad|iPod/.test(ua);
@@ -22,11 +22,12 @@ const isDesktopCheck = (() => {
 
     // Combined Check
     return isDesktopUA && isDesktopScreen && hasMouse && hasContextMenu && isDesktopMemory && isDesktopBehavior;
-})();
-const isDesktop = {
-    get value() {
-        return isDesktopCheck();
-    }
 };
+
+// const isDesktop = {
+//     get value() {
+//         return isDesktopCheck();
+//     }
+// };
 
 export default isDesktop;
