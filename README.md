@@ -59,3 +59,5 @@ This project is open-source and is licensed under the MIT License - see the LICE
 
 #### Misc
 <a href="https://x.com/_monyasau" target="_blank">_monyasau</a> on Twitter.
+
+#### I appologise for the previous misconfigurations that lead to unusability of the package, maintainers are required feel free to add an issue to the issues tab
